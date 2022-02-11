@@ -13,7 +13,7 @@ Este projeto foi desenvolvido utilizando as seguintes tecnologias:
 ### Screens
 
 <p align="center">
-  <img alt="WITAppTestScreens" title="#WITAppTestScreens" src="img/interface.png" width="550px" height="270px">
+  <img alt="WITAppTestScreens" title="#WITAppTestScreens" src="img/Interface.png" width="550px" height="270px">
   <img alt="WITAppTestScreens" title="#WITAppTestScreens" src="img/carrosel.png" width="550px" height="270px">
   
 </p>
