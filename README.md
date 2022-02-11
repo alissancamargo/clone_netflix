@@ -9,6 +9,8 @@ Projeto de uma interface da Netflix desenvolvido durante o Bootcamp da Dio, foca
 Este projeto foi desenvolvido utilizando as seguintes tecnologias:
 
 - [JavaScript](https://www.javascript.com/)
+- [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
+- [CSS3](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 
 ### Screens
 
